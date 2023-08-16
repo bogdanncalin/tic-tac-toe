@@ -1,2 +1,4 @@
 # tic-tac-toe
-Created a tic-tac-toe game to learn javascript
+🛠️ Tech stack: Javascript, HTML, CSS 🎨
+✏️ Enabled users to draw on the screen using their mouse.
+💡 Gained valuable experience in web development through this project. 🚀
